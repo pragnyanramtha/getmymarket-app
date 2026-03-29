@@ -1,5 +1,9 @@
 # GetMyMarket
 
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/608c586e-2ea4-4452-9e2a-1a0eb2948cc4" />
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/9540d333-8741-4e0b-a35e-d35296f0072f" />
+
+
 Agentic Financial Intelligence System for market monitoring, sentiment-driven signal extraction, and explainable stock movement analysis.
 
 ## Overview
